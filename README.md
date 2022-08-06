@@ -1,4 +1,5 @@
 # FBdevelopment
-Going to include new features in chat
-gett
-end
+
+status
+delete features,hang
+
